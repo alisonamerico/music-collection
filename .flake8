@@ -36,4 +36,5 @@ exclude =
     .github/*
     pytest.ini
     Dockerfile
+    *.pyup*
     *nginx*
